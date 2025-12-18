@@ -23,7 +23,7 @@ repository               : "kenta-onodera/kenta-onodera.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_photo.jpg"
   name             : "Kenta Onodera"
   pronouns         : "he/him"  
   bio              : "Associate Professor"
