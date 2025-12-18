@@ -10,8 +10,8 @@ author_profile: true
 - [About](/){:target="_self"}
 - [Research](/research/){:target="_self"}
 - [Publications](/publications/){:target="_self"}
-- [Selected Presentations](/presentations/){:target="_self"}
 - [CV](/cv/){:target="_self"}
+- [Presentations](/presentations/){:target="_self"}
 
 ## Additional Resources
 
