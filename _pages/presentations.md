@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Selected Presentations"
+title: "Presentations"
 permalink: /presentations/
 author_profile: true
 ---
