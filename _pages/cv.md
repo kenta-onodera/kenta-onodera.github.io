@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-## Work experience
+## Work Experience
 **Associate Professor**  
 Japan Women's University, Tokyo, Japan (2020 - Present)  
 
