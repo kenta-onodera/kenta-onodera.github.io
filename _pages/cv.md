@@ -39,7 +39,7 @@ Keio University (2005)
 {% include publications-list.md %}
 
 ## Grants and Funding
-- **Grant-in-Aid for Scientific Research (C)**  
+- **KAKENHI Grant-in-Aid for Scientific Research (C)**  
 Japan Society for the Promotion of Science (JSPS)  
 Project: "A Study of American First-Wave Feminist Political Thought from the Perspective of the Ethics of Care"  
 Grant Number: JP25K15727  
