@@ -8,6 +8,7 @@ author_profile: true
 ## Main Pages
 
 - [About](/){:target="_self"}
+- [Research](/research/){:target="_self"}
 - [Publications](/publications/){:target="_self"}
 - [Selected Presentations](/presentations/){:target="_self"}
 - [CV](/cv/){:target="_self"}
