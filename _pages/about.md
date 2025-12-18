@@ -16,7 +16,7 @@ I am an associate professor at Japan Women's University specializing in intellec
 - Mary Parker Follett and organizational theory
 
 ## Current Projects
-I am currently writing a book about Hull House and Jane Addams's philosophy of "Ethical Democracy" for general audiences.
+I am currently writing a book about Hull House and Jane Addams's philosophy of "Ethical Democracy" for general audiences. [Learn more →](/research/)
 
 ---
 
