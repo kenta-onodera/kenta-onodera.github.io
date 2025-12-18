@@ -16,3 +16,7 @@ I am an associate professor at Japan Women's University specializing in intellec
 
 ## Current Projects
 I am currently writing a book about Hull House and Jane Addams's philosophy of "Ethical Democracy" for general audiences.
+
+---
+
+For information in Japanese, please visit my [Researchmap profile](https://researchmap.jp/ktondr).
