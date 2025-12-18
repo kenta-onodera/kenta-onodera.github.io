@@ -33,10 +33,8 @@ Keio University (2005)
 - Mary Parker Follett and organizational theory
 
 ## Publications
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% include publications-list.md %}
 
 ## Grants and Funding
-- KAKENHI Grant-in-Aid for Scientific Research (2022-2025)
+- KAKENHI Grant-in-Aid for Scientific Research (2025 - 2027)
   Project: "[Project Title]"
