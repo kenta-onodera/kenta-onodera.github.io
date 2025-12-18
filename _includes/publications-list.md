@@ -1,7 +1,7 @@
-## Book
+### Book
 - **Onodera, K.** (2015). *[The History of Social Thought in Postwar Japan](https://www.ibunsha.co.jp/books/978-4753103263/)*, Ibunsha.
 
-## Journal Articles
+### Journal Articles
 - **Onodera, K.** (2025). "Addams's Early Peace Thought: Evolutionary Theory and Democracy in Turn-of-the-Century America", *Japanese Journal of Political Thought*, 25, pp.260-290.
 - **Onodera, K.** (2023). "The Scientific and Political Nature of Feminist Social Science based on an Integral Understanding of Feminist Epistemology", *Journal of Gender Studies*, 26, pp.49-67.  
 DOI: [10.24567/0002003769](https://doi.org/10.24567/0002003769)
@@ -16,6 +16,6 @@ DOI: [10.15083/00017679](https://doi.org/10.15083/00017679)
 - **Onodera, K.** (2010). "The Creation of Theories of Civil Society in Japan: The Acceptance of Adam Smith between Wartime and Postwar era and its Philosophical Possibilities", *Annals of the Society for the History of Social Thought*, 34, pp.198-215.  
 DOI: [10.69192/shst.34.0_198](https://doi.org/10.69192/shst.34.0_198)
 
-## Work in Progress
+### Work in Progress
 - **Onodera, K.** (in progress). *Ethical Democracy*.  
 Book manuscript on Hull-House and Jane Addams's philosophy of social democracy.
