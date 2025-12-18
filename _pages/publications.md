@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include publications-list.md %}
+
 ## Book
 **Onodera, K.** (2015). *The History of Social Thought in Postwar Japan*, Ibunsha.
 
