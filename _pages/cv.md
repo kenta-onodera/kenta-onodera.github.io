@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D., The University of Tokyo, 2014
-- Dissertation: "The Conceptual History of Civil Society in Postwar Japan: The Problématique of 'Modernity'"
+** Dissertation: "The Conceptual History of Civil Society in Postwar Japan: The Problématique of 'Modernity'"
 * M.S., The University of Tokyo, 2007
 * B.S., Keio University, 2005
 
