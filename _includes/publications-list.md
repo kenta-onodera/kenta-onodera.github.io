@@ -5,7 +5,7 @@
 - **Onodera, K.** (2025). "Addams's Early Peace Thought: Evolutionary Theory and Democracy in Turn-of-the-Century America", *Japanese Journal of Political Thought*, 25, pp.260-290.
 - **Onodera, K.** (2023). "The Scientific and Political Nature of Feminist Social Science based on an Integral Understanding of Feminist Epistemology", *Journal of Gender Studies*, 26, pp.49-67.  
 DOI: [10.24567/0002003769](https://doi.org/10.24567/0002003769)
-- **Onodera, K.** (2021). "Social critics and gender", *Annals of The Society for The History of Social Thought*, 45, pp.31-50.  
+- **Onodera, K.** (2021). "Social Critics and Gender", *Annals of The Society for The History of Social Thought*, 45, pp.31-50.  
 DOI: [10.69192/shst.45.0_31](https://doi.org/10.69192/shst.45.0_31)
 - **Onodera, K.** (2018). "Pitfalls of Keiichi Matsushita's Thoughts on Civic Politics", *Bulletin of Studies of Yoshino Sakuzo*, 14, pp.77-89.
 - **Onodera, K.** (2017). "Realism for Social-Democratic Reform: The Political Theories of Keiichi Matsushita and Younosuke Nagai Concerning Mass Society", *Annals of The Society for The History of Social Thought*, 41, pp.134-152.  
