@@ -38,7 +38,7 @@ Keio University (2005)
 ## Publications
 {% include publications-list.md %}
 
-## Selected Presentations
+## Presentations
 {% include presentations-list.md %}
 
 ## Grants and Funding
