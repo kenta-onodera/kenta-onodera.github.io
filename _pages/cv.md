@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
 ## Work experience
 **Associate Professor**  
 Japan Women's University, Tokyo, Japan (2020 - Present)  
