@@ -13,7 +13,7 @@ title                    : "Kenta Onodera | Intellectual History & Feminist Phil
 title_separator          : "-"
 name                     : &name "Kenta Onodera"
 description              : &description "Associate Professor at Japan Women's University. Research on Jane Addams, pragmatist feminism, and Progressive Era democratic theory."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://kenta-onodera.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://kentaonodera.com # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kenta-onodera/kenta-onodera.github.io"
