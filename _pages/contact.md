@@ -48,7 +48,3 @@ button[type="submit"]:hover {
   background-color: #3d8ba8;
 }
 </style>
-
----
-
-*Alternatively, you can reach me through [ResearchGate](your-researchgate-url) or [ORCID](your-orcid-url).*
