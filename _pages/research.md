@@ -50,4 +50,4 @@ My research combines:
 
 ---
 
-For collaboration inquiries or to discuss research projects, please feel free to [contact me](mailto:onoderak@fc.jwu.ac.jp).
+For collaboration inquiries or to discuss research projects, please feel free to [contact me](/contact/).
