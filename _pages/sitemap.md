@@ -12,6 +12,7 @@ author_profile: true
 - [Publications](/publications/){:target="_self"}
 - [CV](/cv/){:target="_self"}
 - [Presentations](/presentations/){:target="_self"}
+- [Contact](/contact/){:target="_self"}
 
 ## Additional Resources
 
