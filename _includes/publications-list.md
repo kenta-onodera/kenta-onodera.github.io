@@ -3,7 +3,7 @@
 
 ### Journal Articles (Peer-Reviewed)
 - **Onodera, K.** (2026) "The Intellectual Formation of Jane Addams’s Peace Theory: Spencer, Mazzini, and the Gendered Discourse of War and Peace," *American Political Thought*, 15(2), 165-187.  
-DOI: [10.1086/740302](https://doi.org/10.1086/740302)]
+DOI: [10.1086/740302](https://doi.org/10.1086/740302)
 - **Onodera, K.** (2025) "Addams's Early Peace Thought: Evolutionary Theory and Democracy in Turn-of-the-Century America," *Japanese Journal of Political Thought*, 25, 260-290.
 - **Onodera, K.** (2023) "The Scientific and Political Nature of Feminist Social Science based on an Integral Understanding of Feminist Epistemology," *Journal of Gender Studies*, 26, 49-67.  
 DOI: [10.24567/0002003769](https://doi.org/10.24567/0002003769)
